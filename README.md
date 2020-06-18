@@ -19,9 +19,11 @@ bash <(wget --no-check-certificate -qO- https://github.com/xidcn/LotServer/raw/m
 ```
 
 ## Debian / Unbuntu更换自动内核（运行后需重启）
+
 ```
 bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/Debian_Kernel.sh')
 ```
+
 ## 调教手册
 
 https://github.com/iiiiiii1/LotServer/blob/master/lotServer.pdf
