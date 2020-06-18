@@ -26,7 +26,7 @@ bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShe
 
 ## 调教手册
 
-https://github.com/iiiiiii1/LotServer/blob/master/lotServer.pdf
+https://github.com/xidcn/LotServer_Vicer/blob/master/lotServer.pdf
 
 ## 使用方法
 
