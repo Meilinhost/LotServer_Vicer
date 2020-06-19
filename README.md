@@ -18,7 +18,7 @@ bash <(wget --no-check-certificate -qO- https://github.com/xidcn/LotServer_Vicer
 bash <(wget --no-check-certificate -qO- https://github.com/xidcn/LotServer_Vicer/raw/master/Install.sh) uninstall
 ```
 
-## Debian / Unbuntu更换自动内核（运行后需重启）
+## Debian / Unbuntu自动更换内核（运行后需重启）
 
 ```
 bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/Debian_Kernel.sh')
